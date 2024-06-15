@@ -13,12 +13,12 @@ This is a front-end travel website built using HTML, CSS, JavaScript, and Bootst
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Rahuljoshi07/travel-website.git
+    git clone https://github.com/Rahuljoshi07/TravelWebsite.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd travel-website
+    cd TravelWebsite
     ```
 
 3. Open `index.html` in your web browser to view the website.
@@ -34,7 +34,8 @@ Open `index.html` in your web browser to explore the website. The website includ
 
 Navigate through the website using the navigation bar at the top.
 
-## Development
+## Screen
+
 
 ### Technologies Used
 
