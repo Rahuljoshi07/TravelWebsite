@@ -35,6 +35,7 @@ Open `index.html` in your web browser to explore the website. The website includ
 Navigate through the website using the navigation bar at the top.
 
 ## Screen
+![Screenshot 2024-06-15 193604](https://github.com/Rahuljoshi07/TravelWebsite/assets/86591216/8e4c888d-107c-43a3-bc8a-e9d75a17aae0)
 
 
 ### Technologies Used
