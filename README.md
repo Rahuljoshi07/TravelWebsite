@@ -78,9 +78,3 @@ Stay tuned for updates!
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or suggestions, please contact:
-- **Rahul Joshi**: [rahuljoshsgi@example.com](mailto:rahuljoshi@example.com)
-- **GitHub**: [Rahuljoshi07](https://github.com/Rahuljoshi07)
